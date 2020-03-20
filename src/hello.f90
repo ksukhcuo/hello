@@ -5,6 +5,6 @@
 
         hello = "Hello, World!"
 
-        print *, hello
+        print "(a)", hello
 
     end program main
