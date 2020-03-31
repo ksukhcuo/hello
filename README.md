@@ -1,6 +1,6 @@
 # hello
 
-test repository
+Test repository
 
 Showing
 
@@ -10,31 +10,21 @@ Hello, World!
 
 by three languages.
 
-# Requirements
+## Requirements
 
 * GNU Make
 * GNU Fortran
 * g++
 * Python
 
-These programs may run in almost all versions.
+These must be added to PATH. The programs may run in almost all versions. 
 
-# Usage
-Windows:
+## Usage
+Launch a terminal, enter
 ```
-make win
-```
-
-Linux:
-```
-make lin
+make
 ```
 
-# License
+## License
 This software is released under the MIT Lincense, see LINCENSE.
 
-# Author
-ksukhcuo
-
-# Reference
-Omitted
